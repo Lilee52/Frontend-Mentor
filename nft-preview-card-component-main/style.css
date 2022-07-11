@@ -59,11 +59,9 @@ main:hover {
   width: 100%;
   background-color: hsla(178, 100%, 50%, 0.5);
   top: 0;
-  height: 280px;
+  height: 300px;
   border-radius: 10px;
   position: absolute;
-  /* display: flex;
-  z-index: 1; */
 }
 .img-container {
   width: 100%;
