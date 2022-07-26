@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
   margin: 0;
   padding: 0;
@@ -77,3 +78,84 @@ p {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+=======
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+body {
+  display: table-cell;
+  vertical-align: middle;
+  background-color: hsl(212, 45%, 89%);
+  font-size: 17px;
+  font-family: "Outfit", sans-serif;
+}
+
+main {
+  max-width: 100%;
+  max-height: 100vh;
+  margin: 0 auto 1em auto;
+  border-radius: 10px;
+  background-color: hsl(0, 0%, 100%);
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.img-wrapper {
+  max-width: 100%;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.container {
+  max-width: 330px;
+  max-height: 80vh;
+  padding: 1em;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+h3 {
+  padding: 5px;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+  width: 270px;
+  margin: 20px auto 5px auto;
+}
+
+p {
+  padding: 5px;
+  text-align: center;
+  font-size: 15px;
+  width: 270px;
+  margin: 0 auto;
+  font-weight: 400;
+  margin-bottom: 1.5em;
+  color: hsl(220, 15%, 55%);
+  line-height: 19px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+>>>>>>> 846197cbba75646c111a3e308883cd4542791960
