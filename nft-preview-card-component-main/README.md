@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./nft snap-1.JPG)
+![](./nft%20snap-1.JPG)
 
 ### Links
 
