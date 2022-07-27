@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
+- Solution URL: (https://github.com/Lilee52/Frontend-Mentor/tree/main/nft-preview-card-component-main)
 - Live Site URL:  (https://lilee52.github.io/Frontend-Mentor/nft-preview-card-component-main/)
 
 ### Built with
